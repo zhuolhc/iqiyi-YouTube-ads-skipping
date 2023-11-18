@@ -1,11 +1,12 @@
 
 // ==UserScript==
-// @name         自动跳过爱奇艺广告（免费版）
+// @name         自动跳过爱奇艺广告、YouTube开屏广告
 // @namespace    iqiyi
 // @version      1.0
-// @description  在YouTube网页上自动跳过广告
+// @description  在YouTube网页上自动跳过广告 跳过爱奇艺广告
 // @author       God Zhuo
 // @match        *://www.iqiyi.com/*
+// @match        *://www.youtube.com/*
 // @grant        none
 // ==/UserScript==
 
