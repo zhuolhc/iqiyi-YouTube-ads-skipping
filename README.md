@@ -5,4 +5,6 @@
 **同理可以免去99%的YouTube开屏广告，YouTube一般会强制普通用户看10s广告**
 如果觉得关闭不丝滑，可以减小检测的时间(源代码是500ms,理论上 0s <= 关闭的时间 <= 0.5s),别的视频网站我不用可以自行开发。
 ## deploy
-*Tampermonkey*
+Tampermonkey
+##license
+Apache-2.0 
